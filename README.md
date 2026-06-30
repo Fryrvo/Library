@@ -19,5 +19,5 @@ Raw URL
 >
 >*Fryrvo-banner
 >```text
->https://cdn.jsdelivr.net/gh/Fryrvo/Library@main/asset/Fryrvo-banner.png
+>https://raw.githubusercontent.com/Fryrvo/Library/main/asset/Fryrvo-banner.png
 >```
