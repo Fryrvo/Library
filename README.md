@@ -7,7 +7,17 @@ Raw URL
 <details>
 <summary>URL</summary>
  
-
-```text
-raw.githubusercontent.com
- ```
+>* Raw
+>```text
+>raw.githubusercontent.com
+>```
+>
+>* pako.min.js
+>```text
+>https://cdn.jsdelivr.net/gh/Fryrvo/Library@main/format/pako.min.js
+>```
+>
+>*Fryrvo-banner
+>```text
+>https://cdn.jsdelivr.net/gh/Fryrvo/Library@main/asset/Fryrvo-banner.png
+>```
