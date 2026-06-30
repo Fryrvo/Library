@@ -17,7 +17,7 @@ Raw URL
 >https://cdn.jsdelivr.net/gh/Fryrvo/Library@main/format/pako.min.js
 >```
 >
->*Fryrvo-banner
+>* Fryrvo-banner
 >```text
 >https://raw.githubusercontent.com/Fryrvo/Library/main/asset/Fryrvo-banner.png
 >```
